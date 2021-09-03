@@ -1,0 +1,6 @@
+{
+  "key": "MSRV_BASE",
+  "baseUrls": [
+    "/api/v1"
+  ]
+}
